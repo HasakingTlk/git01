@@ -1,2 +1,5 @@
+newBranch分支新建的文件
+修改文件
+newBranch 冲突内容
 newBranch分支新建
 Main 冲突内容
